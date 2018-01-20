@@ -1,7 +1,6 @@
 public class Program {
 
 
-
     public static void main(String[] args) {
 
         MathQuiz mat = new MathQuiz();
@@ -27,7 +26,7 @@ public class Program {
         else System.out.println("błędna");
 
         System.out.println("");
-        System.out.println("Twój wynik: "+mat.licznik+ "/3.");
+        System.out.println("Twój wynik: " + mat.licznik + "/3.");
 
     }
 }
